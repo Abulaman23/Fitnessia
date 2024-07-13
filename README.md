@@ -15,3 +15,7 @@ TECH STACK USED:
 2.MongoDB
 3.Node js
 4. Provider for state management
+
+![Screenshot 2024-07-13 192450](https://github.com/user-attachments/assets/53c6e606-7dde-4a9a-a990-dcb7054fdfc8)
+![Screenshot 2024-07-13 192429](https://github.com/user-attachments/assets/9250ab6d-f12f-463f-8655-ffd260896406)
+
