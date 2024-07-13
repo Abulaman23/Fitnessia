@@ -18,4 +18,5 @@ TECH STACK USED:
 
 ![Screenshot 2024-07-13 192450](https://github.com/user-attachments/assets/53c6e606-7dde-4a9a-a990-dcb7054fdfc8)
 ![Screenshot 2024-07-13 192429](https://github.com/user-attachments/assets/9250ab6d-f12f-463f-8655-ffd260896406)
+![Screenshot 2024-07-13 192613](https://github.com/user-attachments/assets/4dfad800-d114-4cbe-a0d9-502b33d788ef)
 
