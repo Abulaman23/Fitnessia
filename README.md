@@ -1,16 +1,15 @@
-# fitness_tracker_app
+Name: SK ABUL AMAN
+Company: CODTECH IT SOLUTIONS
+ID: CT08DS2384
+Domain: ANDROID DEVELOPMENT
+Duration: June 15th to July 15th, 2024.
+Mentor: Neela Santhosh Kumar
 
-A new Flutter project.
+OVERVIEW OF THE PROJECT:-
+This app is an all-in-one app for maintaining fitness of oneself. It has cool features like counting steps and calories burnt, provides customised workout routines depending whether the person is a beginner, intermediate or advanced regarding workouts.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+TECH STACK USED:
+1.Flutter
+2.MongoDB
+3.Node js
+4. Provider for state management
